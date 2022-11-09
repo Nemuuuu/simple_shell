@@ -318,7 +318,7 @@ $
 * Building a test suite to check our own code
 
 
-# Authors 
-## Neima Nesru
-## Akrem Muktar Beker
+## Authors 
+<b> Neima Nesru </b>
+<b> Akrem Muktar Beker </b>
 
